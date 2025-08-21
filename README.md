@@ -1,4 +1,4 @@
-# Posters (temporary host)
+# Posters
 
 This repository temporarily hosts my research posters. Files live under `raw/`.  
 Click a poster to view it full size.
